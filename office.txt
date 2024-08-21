@@ -1,1 +1,6 @@
+<html>
+<body>
+<p>office details page</p>
+</body>
+</html>
 
